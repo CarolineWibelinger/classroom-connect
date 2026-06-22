@@ -27,3 +27,21 @@ O estudante deve selecionar uma atividade;
 O sistema deve permitir upload de arquivo;
 O envio deve ficar registrado com data e hora;
 O professor deve conseguir visualizar o arquivo enviado.
+
+US06 Como professor, quero registrar notas das avaliações para acompanhar o desempenho dos estudantes.
+O professor deve selecionar turma e atividade/avaliação;
+Deve ser possível inserir nota por estudante;
+As notas devem ser salvas no sistema;
+Os estudantes devem conseguir visualizar suas notas.
+
+US07 Como estudante, quero consultar minhas notas para acompanhar meu desempenho acadêmico.
+O sistema deve exibir todas as notas do estudante;
+As notas devem estar organizadas por disciplina;
+O estudante não deve visualizar notas de outros alunos;
+As informações devem estar sempre atualizadas.
+
+US08 Como estudante ou professor, quero trocar mensagens pelo sistema para facilitar a comunicação.
+O sistema deve permitir envio e recebimento de mensagens;
+As mensagens devem conter remetente, destinatário e data;
+O histórico da conversa deve ficar salvo;
+O usuário deve ser notificado sobre novas mensagens.
