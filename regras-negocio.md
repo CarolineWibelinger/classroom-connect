@@ -65,6 +65,3 @@ RN05: Apenas usuários vinculados a uma turma podem acessar seus conteúdos.
 RN06: As notas e atividades devem estar associadas à turma correspondente.
   O sistema dee garantir que atividades, entregas e notas sejam vinculadas corretamente à turma em que foram criadas,
   evitando registros em disciplinas ou turmas incorretas.
-
-RN07: O Mapa de Aprendizagem deve considerar apenas dados acadêmicos das turmas vinculadas ao usuário.
-  O sistema deve garantir que professores e coordenadores visualizem somente informações das turmas que possuem permissão de acompanhamento.
