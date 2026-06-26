@@ -13,4 +13,4 @@ Coordenadores:
 
 Administradores:
 
-  Gerenciam os usuários, permissões de acesso, cadastro das turmas, vínculo dos estudantes, gerenciamento de usuários e permissões de acesso.
+  Gerenciam os usuários, permissões de acesso, cadastro das turmas e vínculo de estudantes.
