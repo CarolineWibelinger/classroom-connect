@@ -44,7 +44,7 @@ RN03: Apenas professores podem atribuir ou alterar notas e atividades.
 
   Registrar Nota
 
-  BMPN:
+  BPMN:
   
   As etapas de criação de atividades e lançamento de notas são executadas exclusivamente pelo professor.
 
