@@ -5,7 +5,7 @@ Estudantes:
   
 Professores:
 
-  Criam turmas, postam os materias, atividade e trabalhos da aula. Postam as notas e interagem com os estudantes.
+ Postam os materiais, atividade e trabalhos da aula. Postam as notas e interagem com os estudantes.
 
 Coordenadores:
 
@@ -13,4 +13,4 @@ Coordenadores:
 
 Administradores:
 
-  Gerenciam os usuários, permissões de acesso, configurações do sistema e prestam suporte operacional.
+  Gerenciam os usuários, permissões de acesso, cadastro das turmas, vínculo dos estudantes, gerenciamento de usuários e permissões de acesso.
