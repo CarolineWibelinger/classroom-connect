@@ -1,1 +1,1 @@
-# classroom-project
+# classroom-connect
