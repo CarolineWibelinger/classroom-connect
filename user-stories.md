@@ -69,11 +69,3 @@ Critérios de Aceitação:
   O sistema deve permitir consultar informações gerais das turmas;
   O coordenador deve visualizar o andamento das atividades;
   O coordenador não deve alterar atividades ou notas dos estudantes.
-
-US10 - Como professor, quero visualizar o mapa de aprendizagem da turma para identificar conteúdos que precisam de maior atenção.
-
-Critérios de Aceitação:
-  O sistema deve analisar resultados das atividades e avaliações realizadas;
-  O sistema deve apresentar informações gerais sobre dificuldades da turma;
-  O  professor deve visualizar apenas as turmas pelas quais é responsável;
-  As informações apresentadas devem ser baseadas nos dados registrados no sistema.
