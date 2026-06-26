@@ -65,6 +65,3 @@ RN05: Apenas usuários vinculados a uma turma podem acessar seus conteúdos.
 RN06: As notas e atividades devem estar associadas à turma correspondente.
   O sistema dee garantir que atividades, entregas e notas sejam vinculadas corretamente à turma em que foram criadas,
   evitando registros em disciplinas ou turmas incorretas.
-
-RN07: O painel de desempenho deve apresentar somente informações permitidas ao usuário.
- O Estudante visualizará apenas seus próprios dados e professor apenas visualzará os dados das suas turmas.
