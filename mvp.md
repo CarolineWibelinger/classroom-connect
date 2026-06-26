@@ -10,6 +10,7 @@ Funcionalidades Futuras:
   FF1 - Sistema de Mensagens Interno: Troca de mensagens entre professores e alunos e o histórico da conversa.
   FF2 - Painel do Coordenador: Tela de monitoramento e acompanhamento das turmas para o coordenador. Sem a possibilidde de alteração de informações.
   FF3 - Configuração de Notificação das Atividades: Opção do aluno ativar/desativar o recebimento de mensagens automáticas sobre as atividades.
+  FF4 (Funcionalidade Inovadora) - Mapa de Aprendizagem da Turma: Visão Geral do desempenho da turma disponível para os professores e o coordenador, permite a identificação de conteúdos que a turma apresenta maior dificuldade, auxiliando professores na tomada de decisões pedagógicas e snedo um acréscimo no Painel do Coordenador.
 
 Justificativa da Priorização:
   Justificativa das Funcionalidades Essenciais:
@@ -21,3 +22,4 @@ Justificativa da Priorização:
     FF1 - Chat em tempo real possuem alta complexidade de desenvolvimento (histórico, notificações...). O contato de início pode ser feito via e-mail/whatsapp, sem que isto afete que o sistema funcione corretamente.
     FF2 - Devido ao seu objetivo ser a visualização de informações, sem que haja alteração ou criação, pode ser adiado. Primeiro deve ser focado em o processo acontecer corretamente (criação de turmas, postagens de atividades...) para após criar uma maneira de visualizar todas esses dados. Além de ser possível contornar a falta da visualização com relatórios feitos direto do banco de dados.
     FF3 - Seria necessário a criação/alteração da tela de configuração disponível para o aluno, além do  sistema sempre precisar verificar com esta esta configuração para que seja ou não enviada a notificação. O sistema funciona corretamente sem esta customização.
+    FF4 - Seria necessário a criação de telas e relatórios específicos para esta funcionalidade. Os professores e coordenadores enquanto a funcionalidade não estiver implementada poderão visualizar as notas dos alunos e entregas de atividades e tirarem suas conclusôes a partir delas. O processo necessário para o ensino pedagógico ocorrerá mesmo sem a funcionalidade, com ela sendo apenas uma facilitadora do processo.
