@@ -69,17 +69,3 @@ Critérios de Aceitação:
   O sistema deve permitir consultar informações gerais das turmas;
   O coordenador deve visualizar o andamento das atividades;
   O coordenador não deve alterar atividades ou notas dos estudantes.
-
-US10 - Como estudante, quero visualizar meu desempenho acadêmico para acompanhar minha evolução nas disciplinas.
-
-Critérios de Aceitação:
-  O sistema deve apresentar resumo das notas;
-  Deve mostrar atividades entregues e pendentes;
-  As informações devem ser organizadas por disciplina.
-
-US11 - Como professor, quero visualizar o desempenho geral da turma para identificar dificuldades dos estudantes.
-
-Critérios de Aceitação: 
-  Mostrar média da turma;
-  Mostrar atividades pendentes;
-  Permitir acompanhamento dos estudantes.
