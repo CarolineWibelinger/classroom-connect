@@ -14,4 +14,4 @@ Objetivos da solução:
 Benefícios esperados:
 
   Melhor organização das informações acadêmicas, comunicação mais eficiente entre professores e estudantes,
-  acompanhamento facilitado das atividades e redução de erros ou perdas de informações.
+  acompanhamento facilitado das atividades, visualização do desempenho acadêmico e redução de erros ou perdas de informações.
