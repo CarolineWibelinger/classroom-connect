@@ -61,7 +61,7 @@ RN04: O Sistema terá a opção de notificar os estudantes ou não sobre as nova
 
 RN05: Apenas usuários vinculados a uma turma podem acessar seus conteúdos.
   O sistema deve permitir que estudantes e professores acessem apenas as turmas nas quais possuem vínculo cadastrado.
-
+  
 RN06: As notas e atividades devem estar associadas à turma correspondente.
   O sistema dee garantir que atividades, entregas e notas sejam vinculadas corretamente à turma em que foram criadas,
   evitando registros em disciplinas ou turmas incorretas.
