@@ -1,10 +1,11 @@
 Funcionalidade Essenciais:
 
-FE1 - Autenticação: Login para os estudantes, professores, (coordenadores - verificar se era assim que escrevemos), administradores
-FE2 - Gestão da Turma: Permite que o administrador (verificar com as meninas) crie as novas turmas e vincule a elas os alunos e o professor. Além de poder arquivar uma turma ou alterá-la.
+FE1 - Autenticação: Login para os estudantes, professores, coordenadores, administradores
+FE2 - Gestão da Turma: Permite que o professor crie as novas turmas e vincule a elas os seus alunos. Além de poder arquivar uma turma ou alterá-la.
 FE3 - Publicação das atividades: Permite que o professor poste novas atividades em turmas que ele é o professor e quue estejam ativas. Permissão apenas para o professor.
 FE4 - Envio de Trabalhos com Prazo de Entrega: Permite ao estudante anexar um arquivo na atividade desde que esteja dentro do seu prazo de entrega, bloqueando novos envios ou alterações após a data de vencimento da atividade.
 FE5 - Lançamento e Consulta de Notas: Permite ao professor atribuir notas aos envios de atividade dos alunos e garante que o estudante visualize apenas o seu desempenho de forma organizada.
+FE6 - Gerenciamento do Sistema: Permite que o Administrador gerencie os usuários, permissões de acesso e configurações do sistema. O Administrador mesmo tendo acesso a quase todo o sistema, não possui autorização para alteração/postagem de notas e atividades.
 
 
 Funcionalidades Futuras:
@@ -17,10 +18,10 @@ FF3 - Configuração de Notificação das Atividades: Opção do aluno ativar/de
 Justificativa da Priorização:
 
 Justificativa das Funcionalidades Essenciais:
-  FE1 - Necessário para que o sistema funcione corretamente, pois cada tipo de usuário possui um bloqueio ou permissão dentro do sistema que deve ser respeitada para que o fluxo correto funcione. Ex: um aluno não deve ter o poder de alterar a sua nota.
+  FE1 e FE6 - Necessário para que o sistema funcione corretamente, pois cada tipo de usuário possui um bloqueio ou permissão dentro do sistema que deve ser respeitada para que o fluxo correto funcione. Ex: um aluno não deve ter o poder de alterar a sua nota.
   FE2 - Necessário para que os alunos e professores vejam apenas as turmas que os interessam.
   FE3, FE4 e FE5 - Necessário para que seja seguido o fluxo padrão em relação à postagens de atividades para os alunos, o envio da atividade pelos alunos e o recebimento da nota.
-  FE2 e FE4 - Regras Necessárias para a segurança e integridade de dados acadêmicos.
+  FE2, FE4 e FE6 - Regras necessárias para a segurança e integridade de dados acadêmicos.
 
 Justificativa das Funcionalidades Futuras:
     FF1 - Chat em tempo real possuem alta complexidade de desenvolvimento (histórico, notificações...). O contato de início pode ser feito via e-mail/whatsapp, sem que isto afete que o sistema funcione corretamente.
