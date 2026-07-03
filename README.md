@@ -1,3 +1,3 @@
 # classroom-connect
 
-*[BPMN](bpmn.png)
+* [BPMN](bpmn.png)
