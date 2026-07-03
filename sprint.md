@@ -21,7 +21,7 @@ As responsabilidades foram organizadas da seguinte forma:
 - Gerenciamento do projeto:
   Responsável pelo acompanhamento das tarefas utilizando o GitHub Projects, organização do Kanban e controle do andamento das atividades.
 
----
+
 
 Principais decisões tomadas
 
@@ -40,7 +40,7 @@ Durante a sprint, algumas decisões foram definidas para manter o projeto coeren
 
 - Escolha do GitHub Projects como ferramenta de gerenciamento por permitir organização do backlog, quadro Kanban e acompanhamento das tarefas.
 
----
+
 
 Dificuldades encontradas
 
@@ -54,7 +54,6 @@ Durante o desenvolvimento do projeto, algumas dificuldades foram identificadas:
 
 - Aplicar corretamente os conceitos de UML, principalmente o uso do relacionamento <<extends>>.
 
----
 
 Soluções adotadas
 
