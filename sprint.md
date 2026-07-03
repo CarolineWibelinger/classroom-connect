@@ -1,6 +1,6 @@
-# Diário de Sprint - Classroom Connect
+Diário de Sprint - Classroom Connect
 
-## Divisão das responsabilidades
+Divisão das responsabilidades
 
 Durante o desenvolvimento do projeto, realizamos a divisão das atividades considerando as principais entregas da atividade.
 
@@ -23,7 +23,7 @@ As responsabilidades foram organizadas da seguinte forma:
 
 ---
 
-## Principais decisões tomadas
+Principais decisões tomadas
 
 Durante a sprint, algumas decisões foram definidas para manter o projeto coerente com o objetivo do sistema:
 
@@ -42,7 +42,7 @@ Durante a sprint, algumas decisões foram definidas para manter o projeto coeren
 
 ---
 
-## Dificuldades encontradas
+Dificuldades encontradas
 
 Durante o desenvolvimento do projeto, algumas dificuldades foram identificadas:
 
@@ -56,7 +56,7 @@ Durante o desenvolvimento do projeto, algumas dificuldades foram identificadas:
 
 ---
 
-## Soluções adotadas
+Soluções adotadas
 
 Para resolver as dificuldades encontradas, foram realizadas algumas ações:
 
